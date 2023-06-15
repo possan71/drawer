@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+.canvascolor {
+  width: "400px";
+  height: "400px";
+  border: 1px solid #000000;
+  background-color: rgb(256, 0, 0);
+}
